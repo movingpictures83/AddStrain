@@ -1,0 +1,2 @@
+lineagefile	ensembl_v41_lineage.tsv
+assemblysummary	assembly_summary.txt

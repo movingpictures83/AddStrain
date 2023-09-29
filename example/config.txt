@@ -1,0 +1,2 @@
+Prefix plugins/AddStrain/example/
+Plugin AddStrain inputfile parameters.txt outputfile withstrains.tsv
